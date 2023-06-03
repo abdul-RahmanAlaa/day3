@@ -1,0 +1,24 @@
+.nav__link {
+  text-shadow: 0.05rem 0.05rem black;
+  font-size: larger;
+  text-decoration: none;
+  color: #f8f9fa;
+  margin: 0 0.25rem;
+  padding: 0 0.25rem;
+  border-radius: 10px;
+  opacity: 0.75;
+}
+
+.brand {
+  background-image: url(../../../public/favicon.ico);
+  background-size: 74%;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.active{
+  opacity: 1;
+}
+

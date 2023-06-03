@@ -1,0 +1,19 @@
+.toggler__parent {
+  position: relative;
+}
+.toggler {
+  padding: 0 !important;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 2.4rem;
+  border: 0;
+}
+.toggler__img {
+  background-color: #fff;
+  padding: 0.5rem;
+  width: 90%;
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+}

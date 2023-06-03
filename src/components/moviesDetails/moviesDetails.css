@@ -1,0 +1,20 @@
+.hero {
+  /* background: linear-gradient(to left, transparent, #131313),
+    url(https://image.tmdb.org/t/t/p/w1920_and_h800_multi_faces/4t0oBFrJyweYPt0hocW6RUa0b6H.jpg);
+  background-repeat: "no-repeat";
+  background-size: cover;
+  background-position: "right"; */
+  width: 100%;
+  text-align: start;
+}
+
+.hero__aside {
+  border-radius: 10px;
+  margin: 3rem;
+}
+
+.text-nowrap {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

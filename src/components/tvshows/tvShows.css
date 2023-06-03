@@ -1,0 +1,40 @@
+.tvShow__card {
+  text-decoration: none;
+  color: white;
+  text-align: start;
+}
+
+.tvShow__card:hover {
+  color: white;
+}
+
+.body {
+  position: relative;
+}
+
+.body > * {
+  text-shadow: 0.1rem 0.1rem rgb(121, 80, 80);
+}
+
+.text-nowrap {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.text-nowrap:hover {
+  color: #000;
+  text-shadow: 0.1rem 0.1rem #ffffff;
+}
+
+.vote_average {
+  position: absolute;
+  top: -1rem;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  width: 2.5rem;
+  height: 1.75rem;
+  text-align: center;
+  border: 1px solid rgb(83, 65, 65);
+}

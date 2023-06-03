@@ -1,0 +1,15 @@
+.hero {
+  width: 100%;
+  text-align: start;
+}
+
+.hero__aside {
+  border-radius: 10px;
+  margin: 3rem;
+}
+
+.text-nowrap {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
